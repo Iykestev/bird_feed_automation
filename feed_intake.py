@@ -314,7 +314,7 @@ def main():
     print("🐦 REAL BIRD FEED DATA ANALYSIS")
     print("="*50)
     
-    # Initialize analyzer with real data
+    # Initialize analyzer with real datas
     analyzer = RealFeedDataAnalyzer()
     
     # Run comprehensive analysis
